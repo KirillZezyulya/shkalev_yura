@@ -1,0 +1,38 @@
+.container-fluid {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    margin-bottom: 25px;
+    padding: 0;
+    background-color: #ffffff;
+}
+.heading_of_part{
+    margin-top: 50px;
+    text-align: center;
+}
+.about_me-conteiner{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.main_photo{
+    height: 500px;
+}
+.carousel{
+    width: 100%;
+    margin: auto;
+}
+.card-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.card{
+    flex-grow: 1;
+}
+.my_comment{
+    text-align: center;
+}
